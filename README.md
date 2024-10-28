@@ -10,3 +10,11 @@ Movie Recommendation System
 
 => Conclusion
 - This Movie Recommendation System efficiently suggests movies based on content similarity, using NLP and cosine similarity techniques to match genres, keywords, and overviews. It provides relevant recommendations and serves as a foundation for more advanced recommendation engines, with potential future improvements like adding user ratings, collaborative filtering, or deep learning-based methods for enhanced accuracy.
+
+=> Contact Us
+
+1. Email: uttamsojitra.ds@gmail.com
+
+2. LinkedIn: https://www.linkedin.com/in/uttam-sojitra-6aa781236/
+
+Feel free to reach out for any collaboration, job opportunities, or project discussions!
